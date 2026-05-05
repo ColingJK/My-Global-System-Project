@@ -151,7 +151,7 @@ local function BossTimer()
 		cha.HumanoidRootPart.CFrame = CFrame.new(ClonedKB.Spawn.Position) -- Teleports
 	
 
-	Status.Value = " You will play this again and again untill u find an escape :)"
+	Status.Value = " escape is the only way"
 	wait(6)
 	Status.Value = " good luck cuz youll need it "
 	wait(4)
